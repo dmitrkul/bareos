@@ -65,7 +65,7 @@ If you like to use the MSSQL-Plugin to backing up your Databases you need to con
 
    .. warning::
 
-      If you set the databases into the mentionend mode you have to consider some maintance facts. The database doesn't shrink or delete the logs unanttended, so you have to shrink them manual once a week and you have to truncate the logs once in a month.
+      If you set the databases into the mentionend mode you have to consider some maintenance facts. The database doesn't shrink or delete the logs unanttended, so you have to shrink them manual once a week and you have to truncate the logs once in a month.
 
 -  | Security and Access
    | For connections you can use a SQL-User or a integrated systemaccount (Windows NT user). Both connection types are supported.
